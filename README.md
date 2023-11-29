@@ -1,6 +1,5 @@
 ### Antonio Guevara Projects 👋
 
-<!--
 **antomagu/antomagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ## [Excel Data Analyst Project]
@@ -11,11 +10,6 @@
 * The number of units sold per product
 * The total sales generated in a year
 * The states that buy the most their products
-
-
-
-
-
 
 - ## [Data Analyst Project - Active Volcanoes]
 ###Project overview
@@ -35,5 +29,3 @@ You can see the entire process here ****
 * I explore the years of service they have by age, gender
 * The number of employees by gender in the different areas of the company.
 
-
--->
