@@ -1,8 +1,6 @@
 ### Antonio Guevara Projects 👋
 
-**antomagu/antomagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- ## [Excel Data Analyst Project]
+## [Excel Data Analyst Project]
 
 ###Project overview
 
@@ -11,7 +9,7 @@
 * The total sales generated in a year
 * The states that buy the most their products
 
-- ## [Data Analyst Project - Active Volcanoes]
+## [Data Analyst Project - Active Volcanoes]
 ###Project overview
 
 * Number of active volcanoes per country.
@@ -21,7 +19,7 @@
 You can see the entire process here ****
 
 
-- ## [R Studio Data Analyst]
+## [R Studio Data Analyst]
 
 ###Project overview
 
