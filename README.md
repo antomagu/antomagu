@@ -1,29 +1,37 @@
 ### Antonio Guevara Projects 👋
+<h1>Hi, I'm Antonio! <br/><a href="https://github.com/antomagu">Data Analyst</a>
 
-## [Excel Data Analyst Project]
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-###Project overview
-
-* Electronics company wants to know its total profit.
-* The number of units sold per product
-* The total sales generated in a year
-* The states that buy the most their products
-
-## [Data Analyst Project - Active Volcanoes]
-###Project overview
-
-* Number of active volcanoes per country.
-* Last recorded eruption
-* The tools used are My SQL and Power Bi 
-
-You can see the entire process here ****
+- <b>Excel Data Analyst Project</b>
+  - [Excel_Project](https://antomagu.github.io/Active_Volcanoes/)
+- <b>My SQL and Power Bi, Active Volcanoes</b>
+  - [My SQL and Power Bi Project](https://antomagu.github.io/Active_Volcanoes/)
+- <b>R Studio, HR, Employee Information</b>
+  - [R Studio Project](https://antomagu.github.io/Employee_Information/)
 
 
-## [R Studio Data Analyst]
+<h2> 🤳 Connect with me:</h2>
 
-###Project overview
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-* This project explores different metrics in the human resources area and how they can be displayed graphically to follow them.
-* I explore the years of service they have by age, gender
-* The number of employees by gender in the different areas of the company.
+[twitter]: https://twitter.com/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
