@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>  
 
 - <b>Fiancial Simple</b>
-  - [Excel_Project](https://antomagu.github.io/Active_Volcanoes/)
+  - [Excel_Project](https://github.com/antomagu/Excel_Analysis/tree/main)
 - <b>Active Volcanoes</b>
   - [My SQL and Power Bi Project](https://github.com/antomagu/ActiveVolcanoes)
 - <b>HR, Employee Information</b>
