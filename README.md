@@ -7,6 +7,8 @@
   - [Excel_Project](https://github.com/antomagu/Excel_Analysis/tree/main)
 - <b>Active Volcanoes</b>
   - [My SQL and Power Bi Project](https://github.com/antomagu/ActiveVolcanoes)
+ - <b>Employee Promotion</b>
+   -  [R Project]( https://github.com/antomagu/RProject/tree/main)
 - <b>Public Bikes</b> 
   - [Python Project](https://github.com/antomagu/bikes/blob/main/README.md)
 <!--
