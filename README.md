@@ -1,5 +1,5 @@
 ### Antonio Guevara Projects 👋
-<h1>Hi, I'm Antonio! <br/><a href="https://github.com/antomagu"></a>
+<h1> <br/><a href="https://github.com/antomagu"></a>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>  
 
