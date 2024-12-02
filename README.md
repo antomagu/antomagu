@@ -15,4 +15,5 @@
 
 
 <h2>👨‍💻 Data Scientis Projects:</h2>  
-
+- <b>Linear regression project in advertising </b>
+  - [Excel_Project](https://github.com/antomagu/Excel_Analysis/tree/main)
