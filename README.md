@@ -14,7 +14,7 @@
 
 
 
-<h2>👨‍💻 Data Scientis Projects:</h2>  
+<h2>👨‍💻 Data Science Projects:</h2>  
 - <b>Linear Regression Project in Advertising </b>
 
   - [Python_Project](https://github.com/antomagu/Advertising/tree/main)
